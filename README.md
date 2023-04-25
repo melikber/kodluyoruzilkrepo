@@ -11,6 +11,10 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Eğitimi kapsamında açtığım il
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
- 
- `cd kodluyoruzilkrepo`
- `code`
+
+```
+
+cd kodluyoruzilkrepo
+code.
+
+```
