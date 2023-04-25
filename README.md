@@ -4,7 +4,10 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Eğitimi kapsamında açtığım il
 ## Installation
 
 Öncelikle projeyi clonelayın.
-`git clone https://github.com/melikber/kodluyoruzilkrepo.git`
+```
+git clone https://github.com/melikber/kodluyoruzilkrepo.git
+
+```
 
 ## Usage
 
@@ -18,3 +21,11 @@ cd kodluyoruzilkrepo
 code.
 
 ```
+
+## Contributing
+
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit)
